@@ -4,7 +4,7 @@
 #### 😊 Apaixonada por análise de dados e desenvolvimento.
 #### 
 
-![Marília's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaOlivira&show_icons=true&theme=synthwave)
+![Marília's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaOlivira&show_icons=true&theme=dracula)
 
 
 ### 🎯 Estudando:

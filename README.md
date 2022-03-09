@@ -2,9 +2,13 @@
 
 #### 🧑‍🎓 Estudante de Engenharia da Computação.
 #### 😊 Apaixonada por análise de dados e desenvolvimento.
-#### 
 
-![Marília's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaOlivira&show_icons=true&theme=dracula)
+👩🏻‍🔧 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marília-araujo-589647215) 
+💬 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omarilia746@gmail.com)
+
+![Marília's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariliaOlivira&show_icons=true&theme=dracula) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaOlivira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🎯 Estudando:
@@ -18,11 +22,4 @@
     <br/>
 </div>
 
-### 🚴‍♀️ Tenho trabalhado:
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaOlivira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-👩🏻‍🔧 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marília-araujo-589647215) 
-💬 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omarilia746@gmail.com)

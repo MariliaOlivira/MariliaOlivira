@@ -29,7 +29,6 @@
     <img alinm="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width = "36">
     <img alinm="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width = "36">
     
-    <br/>
 </div>
     
 ##

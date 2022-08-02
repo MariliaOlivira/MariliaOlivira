@@ -1,4 +1,4 @@
-<img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/printf(Hello%2C%20World!)%20(1).png" />
+<img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/printf(Hello%2C%20World!)%20(1)_page-0001.jpg" width = "800" align="center"/>
 
 <div align="center">
   <a href="https://github.com/MariliaOlivira">

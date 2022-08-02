@@ -1,29 +1,35 @@
-### 💫 Olá! Meu nome é Marilia 💫
-
-#### 🧑‍🎓 Estudante de Engenharia da Computação.
-#### 😊 Apaixonada por análise de dados e desenvolvimento.
-
-
-##
+<img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/printf(Hello%2C%20World!)%20(1).png" />
 
 <div align="center">
   <a href="https://github.com/MariliaOlivira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariliaOlivira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaOlivira&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariliaOlivira&theme=blue-green"/>
+
 </div>
 
 ##
-### 🎯 Estudando:
+### Languagens and Skills:
 
 <div style = "display: inline_block"><br/>
-    <img alinm="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alinm="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img alinm="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whitee">
-    <img alinm="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alinm="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <br/>
+    <img alinm="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "36">
+    <img alinm="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width = "36">
+    <img alinm="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width = "36">
+    <img alinm="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width = "36"
+    <img alinm="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"width = "36">
+    <img alinm="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
+    <img alinm="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width = "36">
+    <img alinm="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
+    <img alinm="center" alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"width = "36">
+    <img alinm="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width = "36">
+    <img alinm="center" alt="postesgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"width = "36">
+    <img alinm="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width = "36">
+    <img alinm="center" alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"width = "36">
+    <img alinm="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"width = "36">
+    <img alinm="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width = "36">
+    <img alinm="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width = "36">
+    
+
 </div>
     
 ##

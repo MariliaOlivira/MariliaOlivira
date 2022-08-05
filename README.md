@@ -13,13 +13,12 @@
 
 <div style = "display: inline_block"><br/>
     <img alinm="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "36">
+    <img alinm="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width = "36">
     <img alinm="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width = "36">
     <img alinm="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width = "36">
     <img alinm="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width = "36"
-    <img alinm="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"width = "36">
     <img alinm="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
     <img alinm="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width = "36">
-    <img alinm="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
     <img alinm="center" alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"width = "36">
     <img alinm="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width = "36">
     <img alinm="center" alt="postesgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"width = "36">

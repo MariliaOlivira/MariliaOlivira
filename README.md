@@ -14,22 +14,22 @@
 ### Languagens and Skills:
 
 <div style = "display: inline_block"><br/>
-    <img alinm="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "36">
-    <img alinm="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width = "36">
-    <img alinm="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width = "36">
-    <img alinm="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width = "36">
-    <img alinm="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width = "36">
-    <img alinm="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
-    <img alinm="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width = "36">
-    <img alinm="center" alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"width = "36">
-    <img alinm="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width = "36">
+    <img align="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width = "36">
+    <img align="center" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width = "36">
+    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width = "36">
+    <img align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width = "36">
+    <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width = "36">
+    <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"width = "36">
+    <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width = "36">
+    <img align="center" alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"width = "36">
+    <img align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"width = "36">
     <img alinm="center" alt="postesgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"width = "36">
-    <img alinm="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width = "36">
-    <img alinm="center" alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"width = "36">
-    <img alinm="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"width = "36">
-    <img alinm="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width = "36">
-    <img alinm="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width = "36">
-    <img alinm="center" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"width = "36">
+    <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width = "36">
+    <img align="center" alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"width = "36">
+    <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"width = "36">
+    <img align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width = "36">
+    <img align="center" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width = "36">
+    <img align="center" alt="pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"width = "36">
 </div>
     
 ##

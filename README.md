@@ -1,4 +1,4 @@
-<img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/printf(Hello%2C%20World!)%20(1)_page-0001.jpg" width = "800" align="center"/>
+<img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/hello%2C%20world.png" width = "800" align="center"/>
 
 ##
 

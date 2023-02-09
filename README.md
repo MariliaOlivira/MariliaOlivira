@@ -1,4 +1,6 @@
-<center><img height="50%"  src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/hello%2C%20world%20(1).png" width = "700" align="middle"/><center/>
+<div align="center">
+    <img width="700" height="50%" title="titulo da imagem" src="https://github.com/MariliaOlivira/MariliaOlivira/blob/main/hello%2C%20world%20(1).png"/>
+<div>
 
 ##
 

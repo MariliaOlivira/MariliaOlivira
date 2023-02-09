@@ -38,3 +38,9 @@
 ### 💬 Contatos:   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADlia-araujo-589647215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE6IMOI7yR%2FWXXx%2BotJjg3A%3D%3D) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarilia746@gmail.com)
+    
+</div>
+ 
+  ![Snake animation](https://github.com/MariliaOlivira/MariliaOlivira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
